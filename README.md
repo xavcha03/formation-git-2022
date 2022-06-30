@@ -1,4 +1,4 @@
-# Titre H1
+# Titre H1[^2]
 
 ## Titre H2
 
@@ -46,6 +46,8 @@ _Texte en italique_
   "age": 25
 }
 ```
+
 Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote. 
+[^1]: This is the footnote.
+[^2]: Test.
