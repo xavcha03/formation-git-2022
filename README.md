@@ -54,3 +54,6 @@ Here's a sentence with a footnote. [^1]
 
 term
 : definition
+
+
+~~The world is flat.~~
