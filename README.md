@@ -25,6 +25,10 @@ _Texte en italique_
     <p>Voici du code</p>
 </div>
 `
+
+---
+
 [https://giphy.com/](https://giphy.com/)
 [https://tenor.com/](https://tenor.com/)
+
 
