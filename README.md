@@ -55,9 +55,11 @@ Here's a sentence with a footnote. [^1]
 term
 : definition
 
-
 ~~The world is flat.~~
 
 - [x] Write the press release
 - [ ] Update the website
-- [ ] Contact the media 
+- [ ] Contact the media
+
+:laughing:
+:frog:
