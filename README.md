@@ -29,6 +29,12 @@ _Texte en italique_
 ---
 
 [https://giphy.com/](https://giphy.com/)
+
 [https://tenor.com/](https://tenor.com/)
 
 ![life of a programmer in 2020](ressources/life-programmer.gif)
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
